@@ -1,5 +1,3 @@
-# grasysrepo
-
 # Setup
 
 /etc/yum.repos.d/compute-image-packages.repo
