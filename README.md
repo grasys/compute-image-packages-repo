@@ -12,3 +12,8 @@ curl -s -o /etc/yum.repos.d/compute-image-packages.repo http://grasys.github.io/
 yum --enablerepo=google-compute-image-packages update
 ```
 
+# createrepo
+
+```
+createrepo CentOS/GoogleCloudPlatform/
+```

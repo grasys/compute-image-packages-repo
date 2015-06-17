@@ -1,6 +1,6 @@
 [google-compute-image-packages]
 name=compute-image-packages Repository
 baseurl=http://grasys.github.io/compute-image-packages-repo/CentOS/GoogleCloudPlatform/
-enabled=0
+enabled=1
 gpgcheck=0
 metadata_expire=300
