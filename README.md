@@ -1,3 +1,7 @@
+# github
+
+https://github.com/GoogleCloudPlatform/compute-image-packages
+
 # Setup
 
 /etc/yum.repos.d/compute-image-packages.repo
